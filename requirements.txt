@@ -1,0 +1,4 @@
+streamlit
+librosa
+music21
+numpy
